@@ -1,3 +1,5 @@
+package exempluIncapsulare;
+
 public class ContBancar {
 
     private double sold; // ascuns
